@@ -1,0 +1,5 @@
+pandas
+matplotlib
+scipy
+jinja2
+pytest
