@@ -1,5 +1,3 @@
-# pharmatrialanalyzer/__init__.py
-
 # Import important classes and functions to make them available at the package level
 from .data_ingestion import DataIngestion
 from .data_validation import DataValidation
